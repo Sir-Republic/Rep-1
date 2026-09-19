@@ -1,4 +1,7 @@
 # Rep-1
 My first repository 
-my name is Ayomide 
-I'm just getting to learn more about coding
+Journey to Greece 
+The project is a webpage about Greece
+It includes Greek history, climate and tourist attractions.
+
+
